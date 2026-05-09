@@ -5,8 +5,7 @@ I created a review system for shows where you can create shows and have created 
 Java version: 21
 Docker version: 29.4.0
 
-command to  build and run application
-docker compose up --build
+command to  build and run application : docker compose up --build
 
  image name and tag and required environment variables
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2df6d3f-ca3f-4101-b577-b7b8e914d9f6" />
