@@ -3,6 +3,7 @@ Created by Dylan Tran(884654153)
 I created a review system for shows where you can create shows and have created users create reviews for the shows. 
 
 command to  build and run application
+
 docker compose up --build
 
  image name and tag and required environment variables
