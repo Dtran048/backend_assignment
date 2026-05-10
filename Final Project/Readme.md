@@ -7,7 +7,7 @@ docker desktop
 Java version: 21
 Docker version: 29.4.0
 
-To build and run application : 
+To build and run application :   
 start Docker Desktop      
 docker compose up --build   
 
