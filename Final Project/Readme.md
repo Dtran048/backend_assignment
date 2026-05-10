@@ -2,10 +2,14 @@ CPSC 449 Final Project - Backend Application with JWT Authentication and Docker
 Created by Dylan Tran(884654153)
 I created a review system for shows where you can create shows and have created users create reviews for the shows. 
 
+docker desktop
+
 Java version: 21
 Docker version: 29.4.0
 
-command to  build and run application : docker compose up --build
+To build and run application : 
+start Docker Desktop
+docker compose up --build
 
  image name and tag and required environment variables
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2df6d3f-ca3f-4101-b577-b7b8e914d9f6" />
